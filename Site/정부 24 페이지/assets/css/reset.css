@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+li {
+    list-style: none;
+}
+
+.clearfix::before, .clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+img {
+    width: 100%;
+}
