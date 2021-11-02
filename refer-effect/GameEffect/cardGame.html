@@ -23,6 +23,13 @@
             font-style: normal;
         }
 
+        @font-face {
+            font-family: 'SF_HambakSnow';
+            src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_HambakSnow.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
         /* reset */
         * {
             margin: 0;
@@ -39,7 +46,7 @@
         }
 
         body {
-            background: #d8feff;
+            background-image: url(../assets/img/cardGame.jpg)
         }
 
         /* title */
@@ -47,16 +54,18 @@
             position: absolute;
             left: 20px;
             top: 20px;
+            color: #fff;
         }
 
         .title h1 {
-            font-family: 'Cafe24Ssurround';
+            font-family: 'SF_HambakSnow';
             margin-bottom: 20px;
             font-size: 50px;
+            color: #fff;
         }
 
         .score {
-            font-family: 'Cafe24SsurroundAir';
+            font-family: 'SF_HambakSnow';
             font-size: 30px;
         }
 
@@ -75,10 +84,10 @@
             display: block;
             width: 40px;
             height: 40px;
-            background: #a2ffef;
+            background: #fff;
             text-align: center;
             line-height: 36px;
-            color: #fff;
+            color: #000;
             border-radius: 50%;
             cursor: pointer;
             font-size: 20px;
@@ -102,18 +111,18 @@
         }
 
         .success h2 {
-            font-family: 'Cafe24Ssurround';
+            font-family: 'SF_HambakSnow';
             font-size: 6vw;
-            color: #fff;
+            color: #000;
             margin-bottom: 20px;
         }
 
         .success .btn-continue {
-            font-family: 'Cafe24SsurroundAir';
+            font-family: 'SF_HambakSnow';
             font-size: 2vw;
-            background: #000;
+            background: #ffff;
             border: 0;
-            color: #fff;
+            color: #000;
             padding: 1vw 4vw;
             margin: 1vw;
             cursor: pointer;
@@ -140,10 +149,10 @@
             top: 50%;
             transform: translate(-50%, -50%);
             perspective: 600px;
-            border: 6px solid #000;
+            border: 6px solid #fff;
             border-radius: 1vw;
             padding: 1vw;
-            background-color: #dbf8ef;
+            background-color: #fff;
         }
 
         .cardWrap.is-disabled {
@@ -192,7 +201,8 @@
             width: 100%;
             height: 100%;
             border-radius: .4vw;
-            background-color: #bee2d7;
+            background-color: #fff;
+            ;
             backface-visibility: hidden;
             background-position: center;
             background-repeat: no-repeat;
@@ -209,7 +219,7 @@
 
         /* card img */
         .cardWrap .card .front {
-            background-image: url(http://silvery92.dothome.co.kr/assets/img/desert.svg);
+            background-image: url(../assets/img/cardBack.svg);
         }
 
         .card[data-type=img1] .back {
