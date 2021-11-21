@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>윤여찬의 포트폴리오</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/reset.css">
+    <link rel="stylesheet" href="../assets/css/fonts.css">
+</head>
+
+<body>
+    <div class="scroll fixed">000</div>
+
+    <!-- 메인 1페이지 -->
+    <section id="mainPage1">
+        <div class="container fixed" 
+        data-0="transform: translateX(0%); display:block;"
+        data-8900="transform: translateX(-370%); display:block;"
+        data-9800="transform: translateX(-370%); display:none;"
+        >
+            <div class="page1">
+                <span>YOUNYC</span>
+                <h2>HELLO</h2>
+                <img class="page01" src="../assets/img/mainPage01.svg" alt="하얀색 화살표 이미지">
+                <img class="page02" src="../assets/img/mainPage02.svg" alt="기울어진 사진 이미지">
+                <img class="page03" src="../assets/img/redCircle.svg" alt="빨간 원 이미지">
+                <h3>PORTFOLIO</h3>
+            </div>
+            <div class="page2">
+                <img class="page2Main" src="../assets/img/mainPage2.svg" alt="메인페이지 돌입 사진">
+                <h3>1992.04.13</h3>
+                <div class="pages1">
+                    <h1>Hello, I am trying to be a creative and enjoyable front-end developer</h1>
+                    <p>안녕하세요 저는창의적이고즐길 수 있는 프론트 엔드 개발자가 되기 위해 노력하고 있는 윤여찬 입니다. 어려운일도 즐겁게 즐기며 해결 할수있도록 긍정적인 마인드로 공부 하고
+                        있습니다. 프론트엔드 개발자의 길을 걷기 위해 좀 더 창의적으로 생각하고 여러 경험을 하기 위해 계속 노력하겠습니다.</p>
+                </div>
+                <div class="pages2">
+                    <h1>안녕하세요, 저는 창의적이고 즐거운 프런트엔드 개발자가 되기 위해 노력하고 있습니다.</h1>
+                    <p>Hello, I'm Yoon Yeo-chan, who is striving to become a creative and enjoyable front-end developer.
+                        We are studying with a positive mind so that we can enjoy and solve difficult things. I will
+                        continue to think more creatively and try to experience many things to walk on the path of
+                        front-end developers.</p>
+                </div>
+            </div>
+            <div class="page3">
+                <span class="page3De">De</span>
+                <span class="page3Ve">ve</span>
+                <span class="page3Lop">lop</span>
+                <span class="page3Er">er</span>
+            </div>
+        </div>
+    </section>
+    <!-- section1 -->
+    <section id="mainPage2">
+        <div class="container2 fixed"
+            data-8900="opacity:0"
+            data-11002="opacity:1"
+            data-12100="display:block"
+            data-12101="display:none"
+        >
+            <div class="mainPage2Img1 fixed"
+                data-10002="transform: translateX(0%)"
+                data-10502="transform: translateX(0%)"
+                data-11002="transform: translateX(0%)"
+                data-11502="transform: scale(1); left:5%; top:10%"
+                data-12002="transform: scale(3.9); left:37%; top:100%;"
+                data-12502="transform: scale(3.9); left:37%; top:100%;"
+            ></div>
+            <div class="mainPage2Img2 fixed"
+                data-10002="transform: translateX(0%)"
+                data-10502="transform: translateX(0%)"
+                data-10502="transform: translateX(0%)"
+                data-10502="transform: translateX(127%)"
+            ></div>
+            <div class="mainPage2Img3 fixed"
+                data-10002="transform: translateX(0%)"
+                data-10502="transform: translateX(0%)"
+                data-10502="transform: translateX(0%)"
+                data-10502="transform: translateX(127%)"
+            ></div>
+        </div>
+    </section>
+    <!-- section2 -->
+
+    <section id="mainPage3">
+        <div class="container3 fixed"
+            data-12100="top:0%; display:none"
+            data-12102=" display:block;"
+        >
+            <img src="../assets/img/mainPages01.svg" alt="메인 1" class="page3Img1 fixed"
+                data-12202=""
+            >
+            <h1>FrontEnd</h1>
+            <h4>It's a work gallery</h4>
+            <hr>
+            <div class="page1G">
+                <h1><em>0</em>1</h1>
+                <h3>웹 사이트 관리</h3>
+                <h2>Github</h2>
+
+                <p>FTP 클라이언트 서버를 사용하여 용어 정리 및 프로젝트 내용을 카탈로그로 사용하여 소분류 하여 내용을 빠르게 찾기 쉽게 정리, 채팅 기능과 광고를 넣은 정리 사이트입니다.</p>
+                <span>Management - FTP클라이언트 서버 업데이트 관리</span>
+                <span>Catalogue - 분류별로 공부한 내용을 정리 관리</span>
+                <span>Advertising - 광고 , 댓글 , 실시간 채팅기능 추가 관리</span>
+                <img src="./assets/img/mok01.jpg" alt="목업사진 1번" class="page1GImg1">
+            </div>
+        </div>
+    </section>
+    <!-- section3 -->
+        </div>
+    </section>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js"></script>
+    <script>
+        var s = skrollr.init();
+
+
+        window.addEventListener("scroll", () => {
+            let scrollTop = document.documentElement.scrollTop || window.pageYOffset
+
+            document.querySelector(".scroll").innerHTML = scrollTop;
+        })
+    </script>
+</body>
+
+</html>
