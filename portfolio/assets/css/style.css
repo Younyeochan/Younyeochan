@@ -283,869 +283,869 @@ body {
 /* page1G */
 #mainPage3 .container3 h1 {
     position: fixed;
-    font-size: 130px;
+    font-size: 13.8vh;
     color: #fff;
     font-weight: 500;
-    left: 300px;
-    top: -150px;
+    left: 32vh;
+    top: -16vh;
 }
 
 #mainPage3 .container3 h4 {
     position: fixed;
-    font-size: 120px;
+    font-size: 12.8vh;
     color: #fff;
     font-weight: 300;
-    left: 300px;
-    top: -10px;
+    left: 32vh;
+    top: -1vh;
 }
 
 #mainPage3 .container3 hr {
     position: fixed;
-    width: 1920px;
-    top: 250px;
+    width: 205vh;
+    top: 26.6vh;
 }
 
 #mainPage3 .container3 .page1G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 110px;
-    left: 390px;
+    top: 11.7vh;
+    left: 41.6vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page1G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 110px;
-    left: 100px;
+    top: 11.7vh;
+    left: 10.6vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page1G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 300px;
-    top: 350px;
+    left: 32vh;
+    top: 37vh;
 }
 
 #mainPage3 .container3 .page1G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 490px;
-    top: 410px;
+    left: 52vh;
+    top: 43.7vh;
 }
 
 #mainPage3 .container3 .page1G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 671px;
+    font-size: 2.4vh;
+    width: 71.6vh;
     font-weight: 500;
     color: #fff;
-    left: 970px;
-    top: 360px;
+    left: 103.5vh;
+    top: 38.4vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page1G .page1G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 580px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 61.8vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page1G .page1G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 625px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 66.7vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page1G .page1G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 670px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 71.5vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page1G .page3GImg1 {
     position: fixed;
-    left: 970px;
-    top: 780px;
-    width: 690px;
+    left: 103.5vh;
+    top: 82vh;
+    width: 73.6vh;
 }
 
 /* page2G */
 #mainPage3 .container3 .page2G hr {
     position: fixed;
-    width: 1920px;
-    top: 1450px;
+    width: 205vh;
+    top: 154.7vh;
 }
 
 #mainPage3 .container3 .page2G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 1350px;
-    left: 1490px;
+    top: 144vh;
+    left: 159vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page2G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 1350px;
-    left: 1200px;
+    top: 144vh;
+    left: 128vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page2G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 1230px;
-    top: 1570px;
+    left: 131vh;
+    top: 167.5vh;
 }
 
 #mainPage3 .container3 .page2G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 1200px;
-    top: 1630px;
+    left: 128vh;
+    top: 174vh;
 }
 
 #mainPage3 .container3 .page2G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 671px;
+    font-size: 2.5vh;
+    width: 71.6vh;
     font-weight: 500;
     color: #fff;
-    left: 300px;
-    top: 1575px;
+    left: 32vh;
+    top: 168vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page2G .page2G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 1780px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 190vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page2G .page2G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 1825px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 194.7vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page2G .page2G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 1870px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 199.5vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page2G .page3GImg1 {
     position: fixed;
-    left: 300px;
-    top: 1980px;
-    width: 690px;
+    left: 32vh;
+    top: 211vh;
+    width: 73.6vh;
 }
 
 /* page3G */
 #mainPage3 .container3 .page3G hr {
     position: fixed;
-    width: 1920px;
-    top: 2650px;
+    width: 205vh;
+    top: 282.8vh;
 }
 
 #mainPage3 .container3 .page3G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 2550px;
-    left: 390px;
+    top: 272vh;
+    left: 41.6vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page3G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 405px;
-    top: 2840px;
+    left: 43vh;
+    top: 303vh;
 }
 
 #mainPage3 .container3 .page3G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 2550px;
-    left: 100px;
+    top: 272vh;
+    left: 10.6vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page3G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 300px;
-    top: 2790px;
+    left: 32vh;
+    top: 297.7vh;
 }
 
 
 #mainPage3 .container3 .page3G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 671px;
+    font-size: 2.4vh;
+    width: 71.6vh;
     font-weight: 500;
     color: #fff;
-    left: 970px;
-    top: 2800px;
+    left: 103.5vh;
+    top: 298.8vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page3G .page3G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 3000px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 320vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page3G .page3G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 3045px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 324.9vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page3G .page3G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 3090px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 329.7vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page3G .page3GImg1 {
     position: fixed;
-    left: 970px;
-    top: 3210px;
-    width: 690px;
+    left: 103.5vh;
+    top: 342.5vh;
+    width: 73.6vh;
 }
 
 /* page4G */
 #mainPage3 .container3 .page4G hr {
     position: fixed;
-    width: 1920px;
-    top: 3880px;
+    width: 205vh;
+    top: 414vh;
 }
 
 #mainPage3 .container3 .page4G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 3800px;
-    left: 1490px;
+    top: 405.5vh;
+    left: 159vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page4G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 3800px;
-    left: 1200px;
+    top: 405.5vh;
+    left: 128vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page4G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 1230px;
-    top: 4030px;
+    left: 131vh;
+    top: 430vh;
 }
 
 #mainPage3 .container3 .page4G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 1230px;
-    top: 4090px;
+    left: 131vh;
+    top: 436.4vh;
 }
 
 #mainPage3 .container3 .page4G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 677px;
+    font-size: 2.4vh;
+    width: 72vh;
     font-weight: 500;
     color: #fff;
-    left: 300px;
-    top: 4040px;
+    left: 32vh;
+    top: 431vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page4G .page4G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 4230px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 451vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page4G .page4G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 4280px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 456.7vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page4G .page4G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 4330px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 462vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page4G .page3GImg1 {
     position: fixed;
-    left: 300px;
-    top: 4460px;
-    width: 690px;
+    left: 32vh;
+    top: 476vh;
+    width: 73.6vh;
 }
 
 /* page5G */
 #mainPage3 .container3 .page5G hr {
     position: fixed;
-    width: 1920px;
-    top: 5120px;
+    width: 205vh;
+    top: 546vh;
 }
 
 #mainPage3 .container3 .page5G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 5040px;
-    left: 390px;
+    top: 537.8vh;
+    left: 41.6vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page5G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 5040px;
-    left: 100px;
+    top: 537.8vh;
+    left: 10.6vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page5G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 300px;
-    top: 5340px;
+    left: 32vh;
+    top: 569.9vh;
 }
 
 
 #mainPage3 .container3 .page5G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 300px;
-    top: 5280px;
+    left: 32vh;
+    top: 563.5vh;
 }
 
 #mainPage3 .container3 .page5G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 671px;
+    font-size: 2.4vh;
+    width: 71.6vh;
     font-weight: 500;
     color: #fff;
-    left: 970px;
-    top: 5285px;
+    left: 103.5vh;
+    top: 564vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page5G .page5G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 5500px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 586.9vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page5G .page5G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 5550px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 592vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page5G .page5G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 5600px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 597.6vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page5G .page3GImg1 {
     position: fixed;
-    left: 970px;
-    top: 5750px;
-    width: 690px;
+    left: 103.5vh;
+    top: 613.6vh;
+    width: 73.6vh;
 }
 
 /* page6 */
 #mainPage3 .container3 .page6G hr {
     position: fixed;
-    width: 1920px;
-    top: 6410px;
+    width: 205vh;
+    top: 684vh;
 }
 
 #mainPage3 .container3 .page6G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 6340px;
-    left: 1490px;
+    top: 676.6vh;
+    left: 159vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page6G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 6340px;
-    left: 1200px;
+    top: 676.6vh;
+    left: 128vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page6G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 1230px;
-    top: 6590px;
+    left: 131vh;
+    top: 703vh;
 }
 
 #mainPage3 .container3 .page6G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 1230px;
-    top: 6650px;
+    left: 131vh;
+    top: 709.7vh;
 }
 
 #mainPage3 .container3 .page6G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 668px;
+    font-size: 2.4vh;
+    width: 71vh;
     font-weight: 500;
     color: #fff;
-    left: 300px;
-    top: 6600px;
+    left: 32vh;
+    top: 704vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page6G .page6G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 6810px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 726.7vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page6G .page6G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 6855px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 731vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page6G .page6G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 300px;
-    top: 6900px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 32vh;
+    top: 736vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page6G .page3GImg1 {
     position: fixed;
-    left: 300px;
-    top: 7060px;
-    width: 690px;
+    left: 32vh;
+    top: 753vh;
+    width: 73vh;
 }
 
-/* page5G */
+/* page7G */
 #mainPage3 .container3 .page7G hr {
     position: fixed;
-    width: 1920px;
-    top: 7720px;
+    width: 205vh;
+    top: 823.9vh;
 }
 
 #mainPage3 .container3 .page7G h1 {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 7650px;
-    left: 390px;
+    top: 816vh;
+    left: 41.6vh;
     color: #1C1C1C;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page7G h1 em {
     position: fixed;
-    font-size: 450px;
+    font-size: 48vh;
     font-weight: normal;
-    top: 7650px;
-    left: 100px;
+    top: 816vh;
+    left: 10.6vh;
     color: #0B0B0B;
     font-family: 'KulimPark';
 }
 
 #mainPage3 .container3 .page7G h2 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 500;
     color: #fff;
-    left: 300px;
-    top: 7935px;
+    left: 32vh;
+    top: 846.8vh;
 }
 
 
 #mainPage3 .container3 .page7G h3 {
     position: fixed;
-    font-size: 53px;
+    font-size: 5.6vh;
     font-weight: 900;
     color: #fff;
-    left: 300px;
-    top: 7870px;
+    left: 32vh;
+    top: 839.9vh;
 }
 
 #mainPage3 .container3 .page7G p {
     position: fixed;
     text-align: justify;
-    font-size: 23px;
-    width: 679px;
+    font-size: 2.4vh;
+    width: 72vh;
     font-weight: 500;
     color: #fff;
-    left: 970px;
-    top: 7870px;
+    left: 103.5vh;
+    top: 839.9vh;
     line-height: 1.8;
 }
 
 #mainPage3 .container3 .page7G .page7G1 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 8090px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 863vh;
+    padding: 1vh;
     border-top: solid 1px #fff;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page7G .page7G2 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 8135px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 868vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page7G .page7G3 {
     position: fixed;
-    font-size: 15px;
+    font-size: 1.6vh;
     color: #fff;
-    width: 671px;
-    left: 970px;
-    top: 8180px;
-    padding: 10px;
+    width: 71.6vh;
+    left: 103.5vh;
+    top: 872.9vh;
+    padding: 1vh;
     border-bottom: solid 1px #fff;
 }
 
 #mainPage3 .container3 .page7G .page3GImg1 {
     position: fixed;
-    left: 970px;
-    top: 8330px;
-    width: 690px;
+    left: 103.5vh;
+    top: 889vh;
+    width: 73.6vh;
 }
 
 /* 3메인 시작 */
 #mainPage3 .container3 .page8G .studty {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 500;
-    top: 9030px;
-    left: 600px;
+    top: 963.7vh;
+    left: 64vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .studty em {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 900;
-    top: 9030px;
-    left: 500px;
+    top: 963.7vh;
+    left: 53vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .mainC01 {
     position: fixed;
-    top: 9060px;
-    left: 1190px;
-    width: 170px;
-    height: 170px;
+    top: 966.9vh;
+    left: 127vh;
+    width: 18vh;
+    height: 18vh;
 }
 
 #mainPage3 .container3 .page8G .webSite {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 500;
-    top: 9230px;
-    left: 630px;
+    top: 985vh;
+    left: 67vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .webSite em {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 900;
-    top: 9230px;
-    left: 500px;
+    top: 985vh;
+    left: 53vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .mainC02 {
     position: fixed;
-    top: 9255px;
-    left: 1100px;
-    width: 170px;
-    height: 170px;
+    top: 987.7vh;
+    left: 117vh;
+    width: 18vh;
+    height: 18vh;
 }
 
 #mainPage3 .container3 .page8G .ApiSite {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 500;
-    top: 9430px;
-    left: 600px;
+    top: 1006vh;
+    left: 64vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .ApiSite em {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 900;
-    top: 9430px;
-    left: 500px;
+    top: 1006vh;
+    left: 53vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .mainC03 {
     position: fixed;
-    top: 9460px;
-    left: 1020px;
-    width: 170px;
-    height: 170px;
+    top: 1009.6vh;
+    left: 108.8vh;
+    width: 18vh;
+    height: 18vh;
 }
 
 #mainPage3 .container3 .page8G .reactSite {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 500;
-    top: 9630px;
-    left: 600px;
+    top: 1027.7vh;
+    left: 64vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .reactSite em {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 900;
-    top: 9630px;
-    left: 500px;
+    top: 1027.7vh;
+    left: 53vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .mainC04 {
     position: fixed;
-    top: 9660px;
-    left: 1160px;
-    width: 170px;
-    height: 170px;
+    top: 1030.9vh;
+    left: 123.7vh;
+    width: 18vh;
+    height: 18vh;
 }
 
 
 #mainPage3 .container3 .page8G .teamProjeact {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 500;
-    top: 9820px;
-    left: 600px;
+    top: 1048vh;
+    left: 64vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .teamProjeact em {
     position: fixed;
-    font-size: 136px;
+    font-size: 14.5vh;
     font-weight: 900;
-    top: 9820px;
-    left: 500px;
+    top: 1048vh;
+    left: 53vh;
     color: #fff;
 }
 
 #mainPage3 .container3 .page8G .mainC05 {
     position: fixed;
-    top: 9850px;
-    left: 1460px;
-    width: 170px;
-    height: 170px;
+    top: 1051vh;
+    left: 155.8vh;
+    width: 18vh;
+    height: 18vh;
 }
 
 #mainPage3 .container3 .page8G h1 {
     position: fixed;
-    font-size: 18px;
-    top: 10200px;
+    font-size: 1.9vh;
+    top: 1088.5vh;
 }
 
 #mainPage3 .container3 .page8G p {
     color: #fff;
-    width: 961px;
-    left: 750px;
+    width: 102.5vh;
+    left: 80vh;
     position: fixed;
     font-weight: 300;
-    font-size: 18px;
-    top: 10200px;
+    font-size: 1.9vh;
+    top: 1088.5vh;
 }
 
 #mainPage3 .container3 .page8G hr {
     position: fixed;
-    width: 1920px;
-    top: 10380px;
+    width: 204.9vh;
+    top: 1107.7vh;
 }
 
 /* 페이지 9 */
 #mainPage3 .container3 .page9G h1 {
     position: fixed;
-    top: 10500px;
-    font-size: 42px;
+    top: 1120.5vh;
+    font-size: 4vh;
     font-weight: 300;
     color: #fff;
 }
@@ -1153,52 +1153,52 @@ body {
 #mainPage3 .container3 .page9G h3 {
     position: fixed;
     color: #fff;
-    top: 10490px;
-    left: 450px;
-    font-size: 53px;
+    top: 1119.5vh;
+    left: 48vh;
+    font-size: 5.6vh;
     font-weight: 300;
 }
 
 #mainPage3 .container3 .page9G .site01 {
     position: fixed;
     color: #fff;
-    top: 10510px;
-    left: 1030px;
-    font-size: 23px;
-    padding: 5px;
+    top: 1121.6vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    padding: 0.5vh;
     border-bottom: solid 1px #fff;
-    width: 671px;
+    width: 71.6vh;
 }
 
 #mainPage3 .container3 .page9G .site02 {
     position: fixed;
     color: #fff;
-    top: 10555px;
-    left: 1030px;
-    font-size: 23px;
+    top: 1126.4vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
     border-bottom: solid 1px #fff;
-    padding: 5px;
+    padding: 0.5vh;
     width: 671px;
 }
 
 #mainPage3 .container3 .page9G .site03 {
     position: fixed;
     color: #fff;
-    top: 10600px;
-    left: 1030px;
-    font-size: 23px;
+    top: 1131vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
     border-bottom: solid 1px #fff;
-    padding: 5px;
-    width: 671px;
+    padding: 0.5vh;
+    width: 71.6vh;
 }
 
 #mainPage3 .container3 .page9G .site04 {
     position: fixed;
     color: #fff;
-    top: 10645px;
-    left: 1030px;
-    font-size: 23px;
+    top: 1136vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
     border-bottom: solid 1px #fff;
-    padding: 5px;
-    width: 671px;
+    padding: 0.5vh;
+    width: 71.6vh;
 }
