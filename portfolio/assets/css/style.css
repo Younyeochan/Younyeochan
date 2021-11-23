@@ -987,12 +987,13 @@ body {
     width: 690px;
 }
 
+/* 3메인 시작 */
 #mainPage3 .container3 .page8G .studty {
     position: fixed;
     font-size: 136px;
     font-weight: 500;
     top: 9030px;
-    left: 680px;
+    left: 600px;
     color: #fff;
 }
 
@@ -1001,6 +1002,203 @@ body {
     font-size: 136px;
     font-weight: 900;
     top: 9030px;
+    left: 500px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .mainC01 {
+    position: fixed;
+    top: 9060px;
+    left: 1190px;
+    width: 170px;
+    height: 170px;
+}
+
+#mainPage3 .container3 .page8G .webSite {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 500;
+    top: 9230px;
+    left: 630px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .webSite em {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 900;
+    top: 9230px;
+    left: 500px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .mainC02 {
+    position: fixed;
+    top: 9255px;
+    left: 1100px;
+    width: 170px;
+    height: 170px;
+}
+
+#mainPage3 .container3 .page8G .ApiSite {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 500;
+    top: 9430px;
     left: 600px;
     color: #fff;
+}
+
+#mainPage3 .container3 .page8G .ApiSite em {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 900;
+    top: 9430px;
+    left: 500px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .mainC03 {
+    position: fixed;
+    top: 9460px;
+    left: 1020px;
+    width: 170px;
+    height: 170px;
+}
+
+#mainPage3 .container3 .page8G .reactSite {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 500;
+    top: 9630px;
+    left: 600px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .reactSite em {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 900;
+    top: 9630px;
+    left: 500px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .mainC04 {
+    position: fixed;
+    top: 9660px;
+    left: 1160px;
+    width: 170px;
+    height: 170px;
+}
+
+
+#mainPage3 .container3 .page8G .teamProjeact {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 500;
+    top: 9820px;
+    left: 600px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .teamProjeact em {
+    position: fixed;
+    font-size: 136px;
+    font-weight: 900;
+    top: 9820px;
+    left: 500px;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page8G .mainC05 {
+    position: fixed;
+    top: 9850px;
+    left: 1460px;
+    width: 170px;
+    height: 170px;
+}
+
+#mainPage3 .container3 .page8G h1 {
+    position: fixed;
+    font-size: 18px;
+    top: 10200px;
+}
+
+#mainPage3 .container3 .page8G p {
+    color: #fff;
+    width: 961px;
+    left: 750px;
+    position: fixed;
+    font-weight: 300;
+    font-size: 18px;
+    top: 10200px;
+}
+
+#mainPage3 .container3 .page8G hr {
+    position: fixed;
+    width: 1920px;
+    top: 10380px;
+}
+
+/* 페이지 9 */
+#mainPage3 .container3 .page9G h1 {
+    position: fixed;
+    top: 10500px;
+    font-size: 42px;
+    font-weight: 300;
+    color: #fff;
+}
+
+#mainPage3 .container3 .page9G h3 {
+    position: fixed;
+    color: #fff;
+    top: 10490px;
+    left: 450px;
+    font-size: 53px;
+    font-weight: 300;
+}
+
+#mainPage3 .container3 .page9G .site01 {
+    position: fixed;
+    color: #fff;
+    top: 10510px;
+    left: 1030px;
+    font-size: 23px;
+    padding: 5px;
+    border-bottom: solid 1px #fff;
+    width: 671px;
+}
+
+#mainPage3 .container3 .page9G .site02 {
+    position: fixed;
+    color: #fff;
+    top: 10555px;
+    left: 1030px;
+    font-size: 23px;
+    border-bottom: solid 1px #fff;
+    padding: 5px;
+    width: 671px;
+}
+
+#mainPage3 .container3 .page9G .site03 {
+    position: fixed;
+    color: #fff;
+    top: 10600px;
+    left: 1030px;
+    font-size: 23px;
+    border-bottom: solid 1px #fff;
+    padding: 5px;
+    width: 671px;
+}
+
+#mainPage3 .container3 .page9G .site04 {
+    position: fixed;
+    color: #fff;
+    top: 10645px;
+    left: 1030px;
+    font-size: 23px;
+    border-bottom: solid 1px #fff;
+    padding: 5px;
+    width: 671px;
 }
