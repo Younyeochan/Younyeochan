@@ -264,9 +264,9 @@ body {
 #mainPage3 {
     position: relative;
     width: 205vh;
-    height: 2500vh;
+    height: 135vh;
     background: #000;
-    z-index: -2;
+    z-index: -1;
 }
 
 #mainPage3 .container3 {
@@ -275,9 +275,10 @@ body {
 
 #mainPage3 .page3Img1 {
     position: fixed;
-    width: 206vh;
+    width: 201vh;
     height: 582vh;
     top: -193vh;
+    left: 102.5vh;
 }
 
 /* page1G */
@@ -1178,7 +1179,7 @@ body {
     font-size: 2.4vh;
     border-bottom: solid 1px #fff;
     padding: 0.5vh;
-    width: 671px;
+    width: 71.6vh;
 }
 
 #mainPage3 .container3 .page9G .site03 {
@@ -1201,4 +1202,98 @@ body {
     border-bottom: solid 1px #fff;
     padding: 0.5vh;
     width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .site05 {
+    position: fixed;
+    color: #fff;
+    top: 1141vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .site06 {
+    position: fixed;
+    color: #fff;
+    top: 1146vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G h2 {
+    position: fixed;
+    color: #fff;
+    top: 1159.5vh;
+    left: 48vh;
+    font-size: 5.6vh;
+    font-weight: 300;
+}
+
+#mainPage3 .container3 .page9G .site07 {
+    position: fixed;
+    color: #fff;
+    top: 1160vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .site08 {
+    position: fixed;
+    color: #fff;
+    top: 1165vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .site09 {
+    position: fixed;
+    color: #fff;
+    top: 1170vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .site10 {
+    position: fixed;
+    color: #fff;
+    top: 1175vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .site11 {
+    position: fixed;
+    color: #fff;
+    top: 1180vh;
+    left: 109.9vh;
+    font-size: 2.4vh;
+    border-bottom: solid 1px #fff;
+    padding: 0.5vh;
+    width: 71.6vh;
+}
+
+#mainPage3 .container3 .page9G .linkImg01 {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    top: 1181vh;
+    left: 1680px;
 }
