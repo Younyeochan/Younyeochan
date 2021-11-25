@@ -278,7 +278,6 @@ body {
 #mainPage3 .page3Img1 {
     position: fixed;
     width: 201vh;
-    height: 552vh;
     top: -193vh;
     left: 102.5vh;
 }
@@ -1509,6 +1508,5 @@ body {
 #mainPage6 .container6 .page6Img2 {
     position: fixed;
     width: 201.1vh;
-    height: 552vh;
     top: 104%;
 }
